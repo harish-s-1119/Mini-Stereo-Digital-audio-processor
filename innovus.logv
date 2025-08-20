@@ -1,0 +1,46 @@
+[05/07 20:24:40      0s] 
+[05/07 20:24:40      0s] Cadence Innovus(TM) Implementation System.
+[05/07 20:24:40      0s] Copyright 2019 Cadence Design Systems, Inc. All rights reserved worldwide.
+[05/07 20:24:40      0s] 
+[05/07 20:24:40      0s] Version:	v19.11-s128_1, built Tue Aug 20 20:54:34 PDT 2019
+[05/07 20:24:40      0s] Options:	-stylus 
+[05/07 20:24:40      0s] Date:		Wed May  7 20:24:40 2025
+[05/07 20:24:40      0s] Host:		engnx06a.utdallas.edu (x86_64 w/Linux 4.18.0-553.46.1.el8_10.x86_64) (8cores*32cpus*AMD EPYC 7F32 8-Core Processor 512KB)
+[05/07 20:24:40      0s] OS:		Red Hat Enterprise Linux release 8.10 (Ootpa)
+[05/07 20:24:40      0s] 
+[05/07 20:24:40      0s] License:
+[05/07 20:24:40      0s] 		invs	Innovus Implementation System	19.1	checkout succeeded
+[05/07 20:24:40      0s] 		8 CPU jobs allowed with the current license(s). Use set_multi_cpu_usage to set your required CPU count.
+[05/07 20:24:45      4s] 
+[05/07 20:24:45      4s] 
+[05/07 20:24:53      8s] @(#)CDS: Innovus v19.11-s128_1 (64bit) 08/20/2019 20:54 (Linux 2.6.32-431.11.2.el6.x86_64)
+[05/07 20:24:53      8s] @(#)CDS: NanoRoute 19.11-s128_1 NR190815-2055/19_11-UB (database version 18.20, 469.7.1) {superthreading v1.51}
+[05/07 20:24:53      8s] @(#)CDS: AAE 19.11-s034 (64bit) 08/20/2019 (Linux 2.6.32-431.11.2.el6.x86_64)
+[05/07 20:24:53      8s] @(#)CDS: CTE 19.11-s040_1 () Aug  1 2019 08:53:57 ( )
+[05/07 20:24:53      8s] @(#)CDS: SYNTECH 19.11-e010_1 () Jul 15 2019 20:31:02 ( )
+[05/07 20:24:53      8s] @(#)CDS: CPE v19.11-s006
+[05/07 20:24:53      8s] @(#)CDS: IQuantus/TQuantus 19.1.2-s245 (64bit) Thu Aug 1 10:22:01 PDT 2019 (Linux 2.6.32-431.11.2.el6.x86_64)
+[05/07 20:24:53      8s] @(#)CDS: OA 22.60-p020 Mon May 13 19:21:36 2019
+[05/07 20:24:53      8s] @(#)CDS: SGN 18.10-d003 (18-Jul-2018) (64 bit executable, Qt5.9.1)
+[05/07 20:24:53      8s] @(#)CDS: RCDB 11.14.18
+[05/07 20:24:53      8s] @(#)CDS: STYLUS 19.10-s008_1 (06/27/2019 02:55 PDT)
+[05/07 20:24:53      8s] Create and set the environment variable TMPDIR to /usr/tmp/innovus_temp_843101_engnx06a.utdallas.edu_hxs230028_XYmFqo.
+
+[05/07 20:24:53      8s] Create and set the environment variable TMPDIR to /usr/tmp/innovus_temp_843101_engnx06a.utdallas.edu_hxs230028_XYmFqo.
+[05/07 20:24:53      8s] 
+[05/07 20:24:53      8s] Change the soft stacksize limit to 0.2%RAM (514 mbytes). Set global soft_stack_size_limit to change the value.
+[05/07 20:24:55      9s] 
+[05/07 20:24:55      9s] **INFO:  MMMC transition support version v31-84 
+[05/07 20:24:55      9s] 
+[05/07 20:24:56     10s] @innovus 1> 
+[05/07 20:25:52     14s] --------------------------------------------------------------------------------
+[05/07 20:25:52     14s] Exiting Innovus on Wed May  7 20:25:52 2025
+[05/07 20:25:52     14s]   Total CPU time:     0:00:14
+[05/07 20:25:52     14s]   Total real time:    0:01:14
+[05/07 20:25:52     14s]   Peak memory (main): 614.61MB
+[05/07 20:25:52     14s] 
+[05/07 20:25:52     14s] 
+[05/07 20:25:52     14s] *** Memory Usage v#1 (Current mem = 629.672M, initial mem = 270.188M) ***
+[05/07 20:25:52     14s] *** Message Summary: 0 warning(s), 0 error(s)
+[05/07 20:25:52     14s] 
+[05/07 20:25:52     14s] --- Ending "Innovus" (totcpu=0:00:14.2, real=0:01:12, mem=629.7M) ---

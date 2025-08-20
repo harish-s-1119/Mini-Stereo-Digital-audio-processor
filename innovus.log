@@ -1,0 +1,33 @@
+
+Cadence Innovus(TM) Implementation System.
+Copyright 2019 Cadence Design Systems, Inc. All rights reserved worldwide.
+
+Version:	v19.11-s128_1, built Tue Aug 20 20:54:34 PDT 2019
+Options:	-stylus 
+Date:		Wed May  7 20:24:40 2025
+Host:		engnx06a.utdallas.edu (x86_64 w/Linux 4.18.0-553.46.1.el8_10.x86_64) (8cores*32cpus*AMD EPYC 7F32 8-Core Processor 512KB)
+OS:		Red Hat Enterprise Linux release 8.10 (Ootpa)
+
+License:
+		invs	Innovus Implementation System	19.1	checkout succeeded
+		8 CPU jobs allowed with the current license(s). Use set_multi_cpu_usage to set your required CPU count.
+
+
+Create and set the environment variable TMPDIR to /usr/tmp/innovus_temp_843101_engnx06a.utdallas.edu_hxs230028_XYmFqo.
+
+Change the soft stacksize limit to 0.2%RAM (514 mbytes). Set global soft_stack_size_limit to change the value.
+
+**INFO:  MMMC transition support version v31-84 
+
+@innovus 1> 
+--------------------------------------------------------------------------------
+Exiting Innovus on Wed May  7 20:25:52 2025
+  Total CPU time:     0:00:14
+  Total real time:    0:01:14
+  Peak memory (main): 614.61MB
+
+
+*** Memory Usage v#1 (Current mem = 629.672M, initial mem = 270.188M) ***
+*** Message Summary: 0 warning(s), 0 error(s)
+
+--- Ending "Innovus" (totcpu=0:00:14.2, real=0:01:12, mem=629.7M) ---

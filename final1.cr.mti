@@ -1,0 +1,77 @@
+/home/013/h/hx/hxs230028/verilog_final_submit/RAM.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/RAM.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module R_MEM
+-- Compiling module CO_MEM
+-- Compiling module DATA_MEM
+
+Top level modules:
+	R_MEM
+	CO_MEM
+	DATA_MEM
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/MSDAP_tb.sv {1 {vlog -work work -sv -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/MSDAP_tb.sv
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module MSDAP_TB
+
+Top level modules:
+	MSDAP_TB
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/SRAM2RW16x8.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/SRAM2RW16x8.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module SRAM2RW16x8
+
+Top level modules:
+	SRAM2RW16x8
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/MSDAP.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/MSDAP.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module MSDAP
+
+Top level modules:
+	MSDAP
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/main_control.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/main_control.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module MAIN_CTRL
+
+Top level modules:
+	MAIN_CTRL
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/SRAM1RW256x8.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/SRAM1RW256x8.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module SRAM1RW256x8
+
+Top level modules:
+	SRAM1RW256x8
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/synchronizer.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/synchronizer.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module SYNC
+
+Top level modules:
+	SYNC
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/IO_converters.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/IO_converters.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module SERIAL_2_PARALLEL
+-- Compiling module PARALLEL_2_SERIAL
+
+Top level modules:
+	SERIAL_2_PARALLEL
+	PARALLEL_2_SERIAL
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/ALU.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/ALU.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} /home/013/h/hx/hxs230028/verilog_final_submit/SRAM1RW128x12.v {1 {vlog -work work -stats=none /home/013/h/hx/hxs230028/verilog_final_submit/SRAM1RW128x12.v
+Model Technology ModelSim DE vlog 2022.1 Compiler 2022.01 Jan 29 2022
+-- Compiling module SRAM1RW128x12
+
+Top level modules:
+	SRAM1RW128x12
+
+} {} {}}
